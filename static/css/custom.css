@@ -1,0 +1,9 @@
+/* @import url("https://cdn.jsdelivr.net/gh/bad3r/logseq-nord-theme@latest/custom.min.css"); */
+:root {
+    --font-family-main: 'Martian Mono Std xLt';
+}
+
+body {
+  /*font-size: 20px; */
+  color: #000084;
+}
