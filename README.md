@@ -1,1 +1,1 @@
-# study-guide
+# logseq-public-pages
